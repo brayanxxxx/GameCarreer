@@ -1,4 +1,6 @@
-﻿using System;
+﻿//auto factory
+
+using System;
 
 namespace RaceX
 {
