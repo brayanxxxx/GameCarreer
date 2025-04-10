@@ -1,5 +1,6 @@
 ﻿using System;
 
+//auto clase abstracta 
 namespace RaceX
 {
     public abstract class Auto
